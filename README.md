@@ -12,3 +12,4 @@ Kissa is a subproject of Karhu. It is a benchmark test of Axon and Kafka.
 * nodejs
 * visual studio code
 * nginx
+* OS: Ubuntu 20 
