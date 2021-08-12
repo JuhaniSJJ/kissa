@@ -9,7 +9,7 @@ Kissa is a subproject of Karhu. It will make performance test of Axon and Kafka.
 
 * kafka
 * Jmeter
-* nodejs
+* nodejs: v14.17.5
 * visual studio code
 * nginx
 * OS: Ubuntu 20 
